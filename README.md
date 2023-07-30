@@ -43,6 +43,8 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![himavath 4 2_page-0001](https://github.com/23010121/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/139110631/084df50f-d63a-4ac3-9496-976971ba7b5b)
+
 ## RESULT:
 Thus, the cut section for solid model is created.
 
